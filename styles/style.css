@@ -1,0 +1,14 @@
+#wrapper {
+  width: 100%;
+  overflow: hidden;
+}
+
+.hidden {
+  display: none;
+}
+
+.box {
+  border: 2px solid black;
+  height: 100px;
+  cursor: pointer;
+}
